@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Taiwo
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me @ gmail komolafeta95@gmail.com
 - 🧑‍💻 my stacks: HTML|CSS|JavaScript|React.js|Tailwind CSS|Bootstrap
